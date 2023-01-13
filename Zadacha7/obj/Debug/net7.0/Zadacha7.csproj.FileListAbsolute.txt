@@ -1,0 +1,15 @@
+E:\Csharp\CsharpSem\Zadacha7\bin\Debug\net7.0\Zadacha7.exe
+E:\Csharp\CsharpSem\Zadacha7\bin\Debug\net7.0\Zadacha7.deps.json
+E:\Csharp\CsharpSem\Zadacha7\bin\Debug\net7.0\Zadacha7.runtimeconfig.json
+E:\Csharp\CsharpSem\Zadacha7\bin\Debug\net7.0\Zadacha7.dll
+E:\Csharp\CsharpSem\Zadacha7\bin\Debug\net7.0\Zadacha7.pdb
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.csproj.AssemblyReference.cache
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.AssemblyInfoInputs.cache
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.AssemblyInfo.cs
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.csproj.CoreCompileInputs.cache
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.dll
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\refint\Zadacha7.dll
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.pdb
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\Zadacha7.genruntimeconfig.cache
+E:\Csharp\CsharpSem\Zadacha7\obj\Debug\net7.0\ref\Zadacha7.dll
